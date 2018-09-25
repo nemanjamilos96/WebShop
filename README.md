@@ -1,2 +1,2 @@
 # WebShop
-Web prodavnica
+Web prodavnica programirana u Javi
